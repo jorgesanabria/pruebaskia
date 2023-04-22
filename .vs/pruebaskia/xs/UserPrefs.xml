@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{86DB430B-C23B-4F78-83EA-39677937751A}|Default" GitUserInfo="UsingMD">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="33.0.26" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="pruebaskia/Painter/Brush.cs">
+    <Files>
+      <File FileName="pruebaskia/MainPage.xaml" />
+      <File FileName="pruebaskia/Painter/Brush.cs" Line="36" Column="82" />
+      <File FileName="pruebaskia/Prueba_PenBrush.cs" />
+      <File FileName="pruebaskia/Prueba_TextureBrush.cs" />
+      <File FileName="pruebaskia/Prueba_PatenrBrush.cs" />
+      <File FileName="pruebaskia/Prueba_AirBrush.cs" />
+      <File FileName="pruebaskia/Prueba_ShapeBrush.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="pruebaskia" expanded="True">
+            <Node name="pruebaskia" expanded="True">
+              <Node name="Painter" expanded="True" />
+              <Node name="Platforms" expanded="True">
+                <Node name="iOS" expanded="True" />
+                <Node name="MacCatalyst" expanded="True" />
+              </Node>
+              <Node name="Resources" expanded="True">
+                <Node name="Images" expanded="True" />
+              </Node>
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.pruebaskia PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

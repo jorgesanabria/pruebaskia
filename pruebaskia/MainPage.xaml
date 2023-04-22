@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="pruebaskia.MainPage"
+             xmlns:local="clr-namespace:pruebaskia">
+    
+
+            <!--<local:MyCanvasView Background="White" HeightRequest="1000" WidthRequest="1000"></local:MyCanvasView>-->
+            <!--<local:Prueba_PenBrush  Background="White" HeightRequest="1000" WidthRequest="1000"></local:Prueba_PenBrush>-->
+            <!--<local:Prueba_TextureBrush Background="Red" HeightRequest="1000" WidthRequest="1000"></local:Prueba_TextureBrush>-->
+            <!--<local:Prueba_PatenrBrush Background="Red" HeightRequest="1000" WidthRequest="1000"></local:Prueba_PatenrBrush>-->
+            <!--<local:Prueba_AirBrush Background="White" HeightRequest="1000" WidthRequest="1000"></local:Prueba_AirBrush>-->
+            <local:Prueba_ShapeBrush Background="White" HeightRequest="1000" WidthRequest="1000"></local:Prueba_ShapeBrush>
+</ContentPage>
+
